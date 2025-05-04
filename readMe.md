@@ -2,6 +2,8 @@
 
 A web-based tool for generating custom Settlers of Catan maps with a Black Forest theme, featuring fixed forest tiles and randomized terrain distribution for other areas.
 
+![Black Forest Example](black-forest.png)
+
 ## Features
 
 * Generates a hexagonal game board with 61 tiles
